@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "block/dirt"
+    },
+    "cases": [
+      {
+        "when": "carrot_seed",
+        "model": {
+          "type": "model",
+          "model": "item/carrot/seed"
+        }
+      },
+      {
+        "when": "carrot_growing",
+        "model": {
+          "type": "model",
+          "model": "item/carrot/growing"
+        }
+      },
+      {
+        "when": "carrot_grown",
+        "model": {
+          "type": "model",
+          "model": "item/carrot/grown"
+        }
+      },
+      {
+        "when": "carrot_shit",
+        "model": {
+          "type": "model",
+          "model": "item/carrot/shit"
+        }
+      }
+    ]
+  }
+}
