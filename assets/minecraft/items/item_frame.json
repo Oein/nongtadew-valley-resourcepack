@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/item_frame"
+    },
+    "cases": [
+      {
+        "when": "carrot_seed_gui",
+        "model": {
+          "type": "model",
+          "model": "item/carrot/seed_gui"
+        }
+      }
+    ]
+  }
+}
