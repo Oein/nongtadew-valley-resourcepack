@@ -34,6 +34,35 @@
           "type": "model",
           "model": "item/carrot/shit"
         }
+      },
+
+      {
+        "when": "sugarcane_seed",
+        "model": {
+          "type": "model",
+          "model": "item/sugarcane/seed"
+        }
+      },
+      {
+        "when": "sugarcane_growing",
+        "model": {
+          "type": "model",
+          "model": "item/sugarcane/growing"
+        }
+      },
+      {
+        "when": "sugarcane_grown",
+        "model": {
+          "type": "model",
+          "model": "item/sugarcane/grown"
+        }
+      },
+      {
+        "when": "sugarcane_shit",
+        "model": {
+          "type": "model",
+          "model": "item/sugarcane/shit"
+        }
       }
     ]
   }

@@ -13,6 +13,13 @@
           "type": "model",
           "model": "item/carrot/seed_gui"
         }
+      },
+      {
+        "when": "sugarcane_seed_gui",
+        "model": {
+          "type": "model",
+          "model": "item/sugarcane/seed_gui"
+        }
       }
     ]
   }
