@@ -1,0 +1,34 @@
+{
+  "custom.correct_pw": {
+    "category": "player",
+    "sounds": ["custom/correct_pw"]
+  },
+  "custom.pw_correct_sfx": {
+    "category": "player",
+    "sounds": ["custom/pw_correct_sfx"]
+  },
+  "custom.pw_input": {
+    "category": "player",
+    "sounds": ["custom/pw_input"]
+  },
+  "custom.wait_pw": {
+    "category": "player",
+    "sounds": ["custom/wait_pw"]
+  },
+  "custom.wrong_pw": {
+    "category": "player",
+    "sounds": ["custom/wrong_pw"]
+  },
+  "custom.pw_wrong_sfx": {
+    "category": "player",
+    "sounds": ["custom/pw_wrong_sfx"]
+  },
+  "custom.pw_input_char": {
+    "category": "player",
+    "sounds": ["custom/pw_input_char"]
+  },
+  "custom.pw_remove": {
+    "category": "player",
+    "sounds": ["custom/pw_remove"]
+  }
+}
