@@ -28,6 +28,8 @@ jobs:
       - name: Build Zip
         run: |
           mkdir output
+          chmod u+x setpackdata.sh
+          ./setpackdata.sh
           zip -r output/resourcepack.zip . -x "*.git*" "*.github*" "output/*"
       - name: Upload Zip Artifact
         uses: actions/upload-pages-artifact@v4
