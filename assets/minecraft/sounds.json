@@ -1,23 +1,51 @@
 {
-  "custom.correct_pw": {
-    "category": "player",
-    "sounds": ["custom/correct_pw"]
-  },
-  "custom.pw_correct_sfx": {
-    "category": "player",
-    "sounds": ["custom/pw_correct_sfx"]
-  },
   "custom.pw_input": {
     "category": "player",
-    "sounds": ["custom/pw_input"]
+    "sounds": [
+      "custom/v0/0",
+      "custom/v0/1",
+      "custom/v0/2",
+      "custom/v0/3",
+      "custom/v0/4",
+      "custom/v0/5",
+      "custom/v0/6",
+      "custom/v0/7"
+    ]
+  },
+  "custom.wrong_pw": {
+    "category": "player",
+    "sounds": [
+      "custom/v1/0",
+      "custom/v1/1",
+      "custom/v1/2",
+      "custom/v1/3",
+      "custom/v1/4",
+      "custom/v1/5",
+      "custom/v1/6",
+      "custom/v1/7"
+    ]
+  },
+  "custom.correct_pw": {
+    "category": "player",
+    "sounds": [
+      "custom/v2/0",
+      "custom/v2/1",
+      "custom/v2/2",
+      "custom/v2/3",
+      "custom/v2/4",
+      "custom/v2/5",
+      "custom/v2/6",
+      "custom/v2/7"
+    ]
   },
   "custom.wait_pw": {
     "category": "player",
     "sounds": ["custom/wait_pw"]
   },
-  "custom.wrong_pw": {
+
+  "custom.pw_correct_sfx": {
     "category": "player",
-    "sounds": ["custom/wrong_pw"]
+    "sounds": ["custom/pw_correct_sfx"]
   },
   "custom.pw_wrong_sfx": {
     "category": "player",
