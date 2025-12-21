@@ -20,6 +20,13 @@
           "type": "model",
           "model": "item/sugarcane/seed_gui"
         }
+      },
+      {
+        "when": "corn_seed_gui",
+        "model": {
+          "type": "model",
+          "model": "item/corn/seed_gui"
+        }
       }
     ]
   }

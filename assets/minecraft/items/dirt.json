@@ -63,6 +63,35 @@
           "type": "model",
           "model": "item/sugarcane/shit"
         }
+      },
+
+      {
+        "when": "corn_seed",
+        "model": {
+          "type": "model",
+          "model": "item/corn/seed"
+        }
+      },
+      {
+        "when": "corn_growing",
+        "model": {
+          "type": "model",
+          "model": "item/corn/growing"
+        }
+      },
+      {
+        "when": "corn_grown",
+        "model": {
+          "type": "model",
+          "model": "item/corn/grown"
+        }
+      },
+      {
+        "when": "corn_shit",
+        "model": {
+          "type": "model",
+          "model": "item/corn/shit"
+        }
       }
     ]
   }
