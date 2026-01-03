@@ -9,7 +9,10 @@
       "custom/v0/4",
       "custom/v0/5",
       "custom/v0/6",
-      "custom/v0/7"
+      "custom/v0/7",
+      "custom/v0/8",
+      "custom/v0/9",
+      "custom/v0/10"
     ]
   },
   "custom.wrong_pw": {
@@ -22,7 +25,11 @@
       "custom/v1/4",
       "custom/v1/5",
       "custom/v1/6",
-      "custom/v1/7"
+      "custom/v1/7",
+      "custom/v1/8",
+      "custom/v1/9",
+      "custom/v1/10",
+      "custom/v1/11"
     ]
   },
   "custom.correct_pw": {
