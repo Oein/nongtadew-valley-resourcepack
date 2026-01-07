@@ -92,6 +92,64 @@
           "type": "model",
           "model": "item/corn/shit"
         }
+      },
+
+      {
+        "when": "star_seed",
+        "model": {
+          "type": "model",
+          "model": "item/star/seed"
+        }
+      },
+      {
+        "when": "star_growing",
+        "model": {
+          "type": "model",
+          "model": "item/star/growing"
+        }
+      },
+      {
+        "when": "star_grown",
+        "model": {
+          "type": "model",
+          "model": "item/star/grown"
+        }
+      },
+      {
+        "when": "star_shit",
+        "model": {
+          "type": "model",
+          "model": "item/star/shit"
+        }
+      },
+
+      {
+        "when": "potato_seed",
+        "model": {
+          "type": "model",
+          "model": "item/potato/seed"
+        }
+      },
+      {
+        "when": "potato_growing",
+        "model": {
+          "type": "model",
+          "model": "item/potato/growing"
+        }
+      },
+      {
+        "when": "potato_grown",
+        "model": {
+          "type": "model",
+          "model": "item/potato/grown"
+        }
+      },
+      {
+        "when": "potato_shit",
+        "model": {
+          "type": "model",
+          "model": "item/potato/shit"
+        }
       }
     ]
   }

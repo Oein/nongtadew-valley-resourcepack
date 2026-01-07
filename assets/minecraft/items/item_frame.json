@@ -27,6 +27,20 @@
           "type": "model",
           "model": "item/corn/seed_gui"
         }
+      },
+      {
+        "when": "star_seed_gui",
+        "model": {
+          "type": "model",
+          "model": "item/star/seed_gui"
+        }
+      },
+      {
+        "when": "potato_seed_gui",
+        "model": {
+          "type": "model",
+          "model": "item/potato/seed_gui"
+        }
       }
     ]
   }
